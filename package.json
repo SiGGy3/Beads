@@ -1,0 +1,25 @@
+{
+  "name": "beads",
+  "version": "1.0.0",
+  "description": "Epresss full crud with SSR and JSX",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiGGy3/Beads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiGGy3/Beads/issues"
+  },
+  "homepage": "https://github.com/SiGGy3/Beads#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
